@@ -15,7 +15,9 @@
     <deliverable id="PDF-1704797224129" name="PDF">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <publication idref="pdf">
+            <param name="pdf.publishing.template" value="cf://templates/Oxygen"/>
+        </publication>
     </deliverable>
     <deliverable id="d-proiect7.0-1727788922725" name="proiect7.0">
         <context idref="IukfVpqKsJWNBFd"/>
