@@ -19,4 +19,12 @@
             <param name="pdf.publishing.template" value="cf://templates/Oxygen"/>
         </publication>
     </deliverable>
+    <deliverable id="d-chance-test-1727886693680" name="chance-test">
+        <context idref="IukfVpqKsJWNBFd"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf">
+            <param name="pdf.publishing.template" value=".contentfusion/templates/astatine"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
