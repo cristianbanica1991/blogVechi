@@ -11,9 +11,17 @@
             <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
         </publication>
     </deliverable>
+    <deliverable id="WebHelp-1704797197379" name="WebHelp">
+        <context idref="IukfVpqKsJWNBFd"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
+        </publication>
+    </deliverable>
     <deliverable id="PDF-1704797224129" name="PDF">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="pdf-output"/>
+        <publication idref="pdf">
             <param name="pdf.publishing.template" value="cf://templates/Oxygen"/>
         </publication>
     </deliverable>
