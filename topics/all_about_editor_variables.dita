@@ -5,14 +5,14 @@
     <prolog>
         <author>Radu Coravu</author>
         <critdates>
-            <created date="2020-02-03"/>
+            <created date="2020-02-05"/>
         </critdates>
     </prolog>
     <body>
         <p>In various places in the <ph keyref="oxygen"/> application there is support for expanding
             variables. These variables/macros usually take the form <b>${variableName}</b> and are
-            expanded by the application dynamically when necessary. A list with all supported editor
-            variables can be found in the user's manual: <xref
+            expanded by the application dynamically when necessary. A listd with all supported
+            editor variables can be found in the user's manual: <xref
                 href="https://www.oxygenxml.com/doc/ug-editor/topics/editor-variables.html"
                 format="html" scope="external"/>. I will enumerate below all major contexts in which
             using such editor variables may prove useful:</p>
