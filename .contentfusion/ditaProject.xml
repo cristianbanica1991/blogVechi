@@ -35,4 +35,12 @@
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
+    <deliverable id="d-template_source_repo-1727960479841" name="template_source_repo">
+        <context idref="IukfVpqKsJWNBFd"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param name="webhelp.publishing.template" path="../styles"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
