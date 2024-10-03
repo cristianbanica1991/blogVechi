@@ -5,11 +5,12 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf"/>
-    <deliverable id="WebHelp-1704797197379" name="WebHelp">
+    <deliverable id="WebHelp-1704797197379" name="WebHelpcustomtemplate">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
+            <param name="webhelp.publishing.template" path="templates/CustomTemplate"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
     <deliverable id="PDF-1704797224129" name="PDF">
