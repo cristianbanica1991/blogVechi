@@ -29,4 +29,11 @@
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
+    <deliverable id="d-3-1728289187739" name="3">
+        <context idref="IukfVpqKsJWNBFd"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf">
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
