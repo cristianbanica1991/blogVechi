@@ -23,7 +23,7 @@
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param href="templates/1_1" name="webhelp.publishing.template"/>
+            <param href="templates/Vorlage%20mit%20Leerzeichen" name="webhelp.publishing.template"/>
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
