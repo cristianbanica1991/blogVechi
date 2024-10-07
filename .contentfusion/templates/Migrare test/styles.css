@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 /*#
-@colors&{"titlesAccentColor":"#000000","labelsAccentColor":"#e1f5fe","linksAccentColor":"#1a73e8","backgroundAccentColor":"#e8eaed","isDefault":true}&colors@
+@colors&{"titlesAccentColor":"#000000","labelsAccentColor":"#e1f5fe","linksAccentColor":"#1a73e8","backgroundAccentColor":"#af00ff","isDefault":true}&colors@
 @info@STYLES BASKET SELECTIONS METADATA@info@
 @name&styles_basket&name@
 @aspects&wh-tiles,accent-colors-selector,fonts-selector,code-font-roboto-mono,unordered-list-bullet-disc,table-style-bottom-border,notes-style-borders-square,notes-colors-colorful,toc-numbering-deep,left-pages-header-publication-title,right-pages-header-publication-title,wh-search-component-colors-white,wh-menu-page-colors-titles-color-no-bg,wh-footer-background-color&aspects@
@@ -88,7 +88,7 @@ a:visited {
   color: #1a73e8;
 }
 *[class~='topic/table'] th {
-  background-color: #e8eaed;
+  background-color: #af00ff;
 }
 /*fonts-selector*/
 @page {
@@ -121,10 +121,9 @@ body {
   font-family: 'SecondaryBrandingFont', sans-serif;
 }
 /*code-font-roboto-mono*/
-*[class~='pr-d/codeblock'],
-*[class~='codeblock'],
 *[class~='pr-d/codeph'],
-*[class~='codeph'] {
+*[class~='pr-d/codeblock'],
+*[class~="pr-d/codeblock"] > code {
   font-family: 'Roboto Mono', monospace;
 }
 /*table-style-bottom-border*/
@@ -208,6 +207,6 @@ body {
 }
 /*wh-footer-background-color*/
 .wh_footer {
-  background-color: #e8eaed;
+  background-color: #af00ff;
 }
 
