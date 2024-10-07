@@ -31,8 +31,8 @@
     </deliverable>
     <deliverable id="d-3-1728304588556" name="3">
         <context idref="IukfVpqKsJWNBFd"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp">
+        <output href="pdf-output"/>
+        <publication idref="pdf">
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
