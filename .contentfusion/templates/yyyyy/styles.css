@@ -121,10 +121,9 @@ body {
   font-family: 'SecondaryBrandingFont', sans-serif;
 }
 /*code-font-roboto-mono*/
-*[class~='pr-d/codeblock'],
-*[class~='codeblock'],
 *[class~='pr-d/codeph'],
-*[class~='codeph'] {
+*[class~='pr-d/codeblock'],
+*[class~="pr-d/codeblock"] > code {
   font-family: 'Roboto Mono', monospace;
 }
 /*table-style-bottom-border*/
