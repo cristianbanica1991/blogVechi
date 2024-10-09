@@ -36,7 +36,7 @@
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param href="cf://templates/Magnesium" name="webhelp.publishing.template"/>
+            <param href="cf://templates/Oxygen" name="webhelp.publishing.template"/>
         </publication>
     </deliverable>
     <deliverable id="d-Inainte_de_backup_PDF-1728457423611" name="Inainte de backup PDF">
