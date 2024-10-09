@@ -15,4 +15,9 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
+    <deliverable id="d-Iinainte_de_backup-1728457359939" name="Iinainte de backup">
+        <context idref="IukfVpqKsJWNBFd"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
