@@ -29,7 +29,9 @@
     <deliverable id="d-inainte_de_backup_default-1728457384680" name="inainte de backup default">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <publication idref="webhelp">
+            <param href="cf://templates/Magnesium" name="webhelp.publishing.template"/>
+        </publication>
     </deliverable>
     <deliverable id="d-Inainte_de_backup_PDF-1728457423611" name="Inainte de backup PDF">
         <context idref="IukfVpqKsJWNBFd"/>
