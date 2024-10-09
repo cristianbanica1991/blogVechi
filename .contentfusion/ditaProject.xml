@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
+    <context id="zgkXvQtSALjqjYY" name="Cristi_banica test">
+        <input href="../oxygen_xml_blog.ditamap"/>
+        <profile>
+            <ditaval href="../blog-project.xml"/>
+        </profile>
+    </context>
     <context id="IukfVpqKsJWNBFd" name="Blog">
         <input href="../oxygen_xml_blog.ditamap"/>
     </context>
