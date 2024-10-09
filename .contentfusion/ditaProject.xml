@@ -30,6 +30,8 @@
     <deliverable id="d-Inainte_de_backup_PDF-1728457423611" name="Inainte de backup PDF">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <publication idref="pdf">
+            <param href="templates/Template-10" name="pdf.publishing.template"/>
+        </publication>
     </deliverable>
 </project>
