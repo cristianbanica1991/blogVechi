@@ -43,7 +43,7 @@
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="pdf-output"/>
         <publication idref="pdf">
-            <param href="templates/Template-10" name="pdf.publishing.template"/>
+            <param href="cf://templates/Oxygen" name="pdf.publishing.template"/>
         </publication>
     </deliverable>
     <deliverable id="d-ULTIMUL-custom-1728464540290" name="ULTIMUL-custom">
