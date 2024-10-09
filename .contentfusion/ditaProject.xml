@@ -18,7 +18,9 @@
     <deliverable id="d-Iinainte_de_backup-1728457359939" name="Iinainte de backup">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <publication idref="webhelp">
+            <param href="templates/Template-10" name="webhelp.publishing.template"/>
+        </publication>
     </deliverable>
     <deliverable id="d-inainte_de_backup_default-1728457384680" name="inainte de backup default">
         <context idref="IukfVpqKsJWNBFd"/>
