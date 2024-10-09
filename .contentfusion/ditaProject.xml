@@ -57,6 +57,8 @@
     <deliverable id="d-Ultimul_custom2-1728464750588" name="Ultimul custom2">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <publication idref="webhelp">
+            <param href="templates/Template-11" name="webhelp.publishing.template"/>
+        </publication>
     </deliverable>
 </project>
