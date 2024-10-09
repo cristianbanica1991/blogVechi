@@ -15,41 +15,44 @@
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param name="webhelp.publishing.template" href="cf://templates/Oxygen"/>
+            <param href="cf://templates/Oxygen" name="webhelp.publishing.template"/>
         </publication>
     </deliverable>
     <deliverable id="PDF-1704797224129" name="PDF">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="pdf-output"/>
         <publication idref="pdf">
-            <param name="pdf.publishing.template" href="cf://templates/Oxygen"/>
+            <param href="cf://templates/Oxygen" name="pdf.publishing.template"/>
         </publication>
     </deliverable>
     <deliverable id="d-Iinainte_de_backup-1728457359939" name="Iinainte de backup">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param name="webhelp.publishing.template" href="templates/Template-10"/>
+            <param href="templates/Template-10" name="webhelp.publishing.template"/>
         </publication>
     </deliverable>
     <deliverable id="d-inainte_de_backup_default-1728457384680" name="inainte de backup default">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param name="webhelp.publishing.template" href="cf://templates/Magnesium"/>
+            <param href="cf://templates/Magnesium" name="webhelp.publishing.template"/>
         </publication>
     </deliverable>
     <deliverable id="d-Inainte_de_backup_PDF-1728457423611" name="Inainte de backup PDF">
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="pdf-output"/>
         <publication idref="pdf">
-            <param name="pdf.publishing.template" href="templates/Template-10"/>
+            <param href="templates/Template-10" name="pdf.publishing.template"/>
         </publication>
     </deliverable>
     <deliverable id="d-ULTIMUL-custom-1728464540290" name="ULTIMUL-custom">
+        <?description {"content":"ffffffffffffffffff"}?>
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <publication idref="webhelp">
+            <param href="templates/Template-10" name="webhelp.publishing.template"/>
+        </publication>
     </deliverable>
     <deliverable id="d-Ultimul_custom2-1728464750588" name="Ultimul custom2">
         <context idref="IukfVpqKsJWNBFd"/>
